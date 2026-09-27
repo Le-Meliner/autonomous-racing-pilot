@@ -1,0 +1,23 @@
+Gestionnaire de cours
+
+# Compilation
+
+
+Compiler d'abord le gestionnaire de course :
+
+  qmake
+  make
+
+Ensuite, compiler le pilote "Droit au but"
+
+  make -C ./test_pilot install
+
+Enfin, lancer
+
+  ./GrandPrix
+
+
+
+
+
+

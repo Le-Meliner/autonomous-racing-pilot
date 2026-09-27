@@ -1,0 +1,13 @@
+*.o
+*.obj
+*.moc
+*.rcc
+moc_*.cpp
+qrc_*.cpp
+*.pro.user
+*.qmake.stash
+build/
+*.dSYM/
+*~
+drivers/
+res/
